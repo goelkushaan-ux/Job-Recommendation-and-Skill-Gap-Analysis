@@ -1,0 +1,5 @@
+model,top1_acc,top3_acc,macro_F1
+Baseline: most common family,0.336,0.612,0.034
+A) Skill-profile match (ours),0.635,0.823,0.579
+B) TF-IDF centroid cosine,0.685,0.914,0.625
+C) Logistic Regression (balanced),0.758,0.931,0.687

@@ -1,0 +1,4 @@
+seed,core_only_recall,core_only_hit,core+predicted_recall,core+predicted_hit
+0,0.265,0.499,0.299,0.547
+1,0.275,0.516,0.304,0.561
+2,0.266,0.506,0.293,0.551

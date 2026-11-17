@@ -1,0 +1,10 @@
+seed,method,recall_of_hidden,hit_rate,n
+0,personalized (kNN),0.338,0.6,952
+0,family popularity,0.227,0.455,952
+0,global popularity,0.107,0.251,952
+1,personalized (kNN),0.363,0.615,948
+1,family popularity,0.246,0.474,948
+1,global popularity,0.111,0.264,948
+2,personalized (kNN),0.35,0.607,956
+2,family popularity,0.24,0.463,956
+2,global popularity,0.113,0.263,956

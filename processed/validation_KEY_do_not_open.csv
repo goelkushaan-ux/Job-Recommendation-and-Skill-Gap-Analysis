@@ -1,0 +1,181 @@
+row_id,sheet,jobId,label_to_check
+1,B_ambiguous,250925924124,Data Engineer
+2,A_rule_label,300925504199,Data Scientist / ML-AI
+3,C_other,230925037661,Other / Non-IT or Unclear
+4,B_ambiguous,290925924924,Software Developer
+5,B_ambiguous,250925923571,IT Support / Sys & Network
+6,B_ambiguous,290925926088,Software Developer
+7,A_rule_label,260925501373,QA / Testing
+8,A_rule_label,011025020902,Data Scientist / ML-AI
+9,B_ambiguous,290925920463,Software Developer
+10,B_ambiguous,290925920393,ERP / CRM Consultant
+11,A_rule_label,300925500305,Data / BI Analyst
+12,A_rule_label,250925930095,Tech Project / Product
+13,C_other,300925914987,Other / Non-IT or Unclear
+14,A_rule_label,250925031033,Tech Project / Product
+15,A_rule_label,060524003639,IT Support / Sys & Network
+16,A_rule_label,290925907331,Software Developer
+17,A_rule_label,290925018222,Software Developer
+18,C_other,031025502846,Other / Non-IT or Unclear
+19,A_rule_label,011025022981,DevOps / Cloud
+20,A_rule_label,260925914166,Database Admin
+21,A_rule_label,300925930031,IT Architect
+22,A_rule_label,240925502357,Frontend / Web
+23,B_ambiguous,031025916611,Software Developer
+24,A_rule_label,250925924285,QA / Testing
+25,A_rule_label,290925925161,Cybersecurity
+26,C_other,260925013112,Other / Non-IT or Unclear
+27,A_rule_label,230925020869,IT Support / Sys & Network
+28,C_other,300925025224,Other / Non-IT or Unclear
+29,C_other,270925006820,Other / Non-IT or Unclear
+30,B_ambiguous,290925924623,Software Developer
+31,B_ambiguous,250925929752,Software Developer
+32,A_rule_label,230925506121,Data Engineer
+33,C_other,250925023109,Other / Non-IT or Unclear
+34,B_ambiguous,230925935309,Software Developer
+35,A_rule_label,250925023987,QA / Testing
+36,A_rule_label,290925011397,IT Architect
+37,C_other,140825018948,Other / Non-IT or Unclear
+38,C_other,031025006497,Other / Non-IT or Unclear
+39,A_rule_label,240925909322,Cybersecurity
+40,C_other,220825028967,Other / Non-IT or Unclear
+41,A_rule_label,260925919432,Data Engineer
+42,A_rule_label,280925003976,Mobile Developer
+43,C_other,290925918408,Other / Non-IT or Unclear
+44,B_ambiguous,290925920915,Data / BI Analyst
+45,A_rule_label,290925926683,Software Developer
+46,A_rule_label,250925002146,Data Scientist / ML-AI
+47,A_rule_label,030725014749,Data Engineer
+48,A_rule_label,290925910268,ERP / CRM Consultant
+49,A_rule_label,260925914723,IT Support / Sys & Network
+50,A_rule_label,180825001709,Frontend / Web
+51,B_ambiguous,250925929727,Software Developer
+52,A_rule_label,031025912248,QA / Testing
+53,A_rule_label,260925028308,Business / Systems Analyst
+54,A_rule_label,011025501184,Data / BI Analyst
+55,A_rule_label,011025500917,ERP / CRM Consultant
+56,A_rule_label,260925925522,Mobile Developer
+57,A_rule_label,011025917329,Software Developer
+58,A_rule_label,150925026972,DevOps / Cloud
+59,B_ambiguous,300925916123,Software Developer
+60,A_rule_label,240925501898,Database Admin
+61,C_other,100925025059,Other / Non-IT or Unclear
+62,A_rule_label,031025914822,QA / Testing
+63,C_other,031025500534,Other / Non-IT or Unclear
+64,A_rule_label,290925024029,Database Admin
+65,C_other,090525011279,Other / Non-IT or Unclear
+66,A_rule_label,260925017346,Tech Project / Product
+67,A_rule_label,290925911793,ERP / CRM Consultant
+68,A_rule_label,031025501772,Frontend / Web
+69,A_rule_label,031025917360,Data Engineer
+70,A_rule_label,100125913821,IT Support / Sys & Network
+71,A_rule_label,031025001631,Database Admin
+72,A_rule_label,031025007843,DevOps / Cloud
+73,C_other,230925505500,Other / Non-IT or Unclear
+74,A_rule_label,230925032363,Business / Systems Analyst
+75,C_other,260925926266,Other / Non-IT or Unclear
+76,A_rule_label,230925507923,Tech Project / Product
+77,A_rule_label,200525002222,Frontend / Web
+78,C_other,290925503426,Other / Non-IT or Unclear
+79,A_rule_label,240925507898,Mobile Developer
+80,A_rule_label,290925011631,Cybersecurity
+81,A_rule_label,300925505102,IT Support / Sys & Network
+82,A_rule_label,230925930379,IT Architect
+83,A_rule_label,290925921249,Software Developer
+84,A_rule_label,290925922290,Software Developer
+85,A_rule_label,300925504640,Data Engineer
+86,A_rule_label,250925929385,Business / Systems Analyst
+87,A_rule_label,290925925527,Data Scientist / ML-AI
+88,A_rule_label,250925003307,Tech Project / Product
+89,A_rule_label,290925901807,IT Architect
+90,B_ambiguous,290925921923,Software Developer
+91,A_rule_label,290925008044,Mobile Developer
+92,A_rule_label,260925027019,DevOps / Cloud
+93,A_rule_label,230925026803,Mobile Developer
+94,B_ambiguous,290925907564,IT Support / Sys & Network
+95,A_rule_label,011025018988,Database Admin
+96,B_ambiguous,290925922490,ERP / CRM Consultant
+97,A_rule_label,240925033627,DevOps / Cloud
+98,B_ambiguous,230925925723,ERP / CRM Consultant
+99,A_rule_label,230925014646,ERP / CRM Consultant
+100,A_rule_label,250925929957,Cybersecurity
+101,A_rule_label,290925912010,DevOps / Cloud
+102,A_rule_label,031025500882,Data / BI Analyst
+103,A_rule_label,230925934523,Cybersecurity
+104,A_rule_label,250925029908,Tech Project / Product
+105,A_rule_label,290925019145,IT Architect
+106,A_rule_label,290925503292,Cybersecurity
+107,A_rule_label,290925914006,Software Developer
+108,B_ambiguous,300925915779,Software Developer
+109,A_rule_label,011025920721,Cybersecurity
+110,A_rule_label,230925505609,Data / BI Analyst
+111,A_rule_label,031025012161,Database Admin
+112,A_rule_label,230925911656,ERP / CRM Consultant
+113,C_other,031025503129,Other / Non-IT or Unclear
+114,B_ambiguous,250925920362,Software Developer
+115,A_rule_label,230925503657,Data / BI Analyst
+116,A_rule_label,031025501527,Data / BI Analyst
+117,A_rule_label,290925907014,DevOps / Cloud
+118,B_ambiguous,031025909858,Software Developer
+119,A_rule_label,260724005120,Business / Systems Analyst
+120,A_rule_label,020725928204,Data Engineer
+121,A_rule_label,300625008947,IT Support / Sys & Network
+122,C_other,260925020930,Other / Non-IT or Unclear
+123,A_rule_label,290925925675,IT Architect
+124,A_rule_label,250925000232,QA / Testing
+125,A_rule_label,230925928868,ERP / CRM Consultant
+126,A_rule_label,230925929727,Data Engineer
+127,B_ambiguous,230925933482,Software Developer
+128,A_rule_label,290925502415,Data Scientist / ML-AI
+129,B_ambiguous,290925924167,Software Developer
+130,C_other,060525003198,Other / Non-IT or Unclear
+131,C_other,260925024458,Other / Non-IT or Unclear
+132,B_ambiguous,230925932044,Software Developer
+133,C_other,270925005945,Other / Non-IT or Unclear
+134,A_rule_label,240925028269,QA / Testing
+135,B_ambiguous,290925925898,Data / BI Analyst
+136,C_other,011025502371,Other / Non-IT or Unclear
+137,A_rule_label,250925913153,ERP / CRM Consultant
+138,A_rule_label,300925918061,Data Scientist / ML-AI
+139,A_rule_label,011025502678,Cybersecurity
+140,C_other,031025007859,Other / Non-IT or Unclear
+141,A_rule_label,300925013271,Frontend / Web
+142,C_other,240925018340,Other / Non-IT or Unclear
+143,A_rule_label,300925029933,Mobile Developer
+144,A_rule_label,230925013256,Tech Project / Product
+145,B_ambiguous,290925922412,Software Developer
+146,A_rule_label,230925018553,Business / Systems Analyst
+147,A_rule_label,260925909353,IT Support / Sys & Network
+148,C_other,040925017366,Other / Non-IT or Unclear
+149,A_rule_label,290925501776,IT Support / Sys & Network
+150,B_ambiguous,250925923864,ERP / CRM Consultant
+151,A_rule_label,240925034857,Business / Systems Analyst
+152,A_rule_label,011025501549,Data Scientist / ML-AI
+153,C_other,230925924721,Other / Non-IT or Unclear
+154,A_rule_label,230925931681,Data Scientist / ML-AI
+155,A_rule_label,290925920194,Tech Project / Product
+156,C_other,011025010983,Other / Non-IT or Unclear
+157,A_rule_label,290925502986,ERP / CRM Consultant
+158,A_rule_label,031025018958,Frontend / Web
+159,A_rule_label,300925025548,Database Admin
+160,A_rule_label,290925027304,Data / BI Analyst
+161,A_rule_label,260925919821,Business / Systems Analyst
+162,A_rule_label,230925930604,DevOps / Cloud
+163,A_rule_label,260925928800,IT Architect
+164,A_rule_label,250925905639,Business / Systems Analyst
+165,B_ambiguous,250925924030,Software Developer
+166,B_ambiguous,290925921621,Software Developer
+167,A_rule_label,230925918361,Frontend / Web
+168,B_ambiguous,290925922528,Software Developer
+169,A_rule_label,180925031474,Database Admin
+170,A_rule_label,230925037455,Software Developer
+171,A_rule_label,300925503830,Mobile Developer
+172,A_rule_label,250925932115,IT Architect
+173,A_rule_label,230925500925,Data / BI Analyst
+174,B_ambiguous,290925926691,IT Architect
+175,A_rule_label,240925502374,Mobile Developer
+176,A_rule_label,250925028333,QA / Testing
+177,C_other,200825011743,Other / Non-IT or Unclear
+178,A_rule_label,031025920113,Frontend / Web
+179,A_rule_label,260925920188,Data Engineer
+180,C_other,190725009582,Other / Non-IT or Unclear

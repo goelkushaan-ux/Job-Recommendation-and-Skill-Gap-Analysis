@@ -1,0 +1,32 @@
+{
+  "A_rule_vs_human": {
+    "agree": 102,
+    "n": 120,
+    "rate": 0.85,
+    "ci": [
+      0.775,
+      0.903
+    ],
+    "not_IT": 2
+  },
+  "B_modelD_ambiguous": {
+    "agree": 17,
+    "n": 958,
+    "ci": [
+      0.011,
+      0.028
+    ]
+  },
+  "missed_IT_in_Other": {
+    "estimate": 14285,
+    "ci": [
+      11165,
+      20098
+    ]
+  },
+  "riasec_cosine": {
+    "mean": 0.956,
+    "min": 0.843,
+    "max": 0.997
+  }
+}

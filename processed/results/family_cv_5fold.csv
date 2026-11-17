@@ -1,0 +1,4 @@
+variant,top1,top3,macro_F1,d_top1_vs_1,d_F1_vs_1
+"1) skills, balanced weights",0.704,0.912,0.651,+0.000 (0/5 folds),+0.000 (0/5 folds)
+"2) skills, no weights",0.754,0.935,0.674,+0.050 (5/5 folds),+0.023 (4/5 folds)
+"3) skills + description, no weights",0.803,0.955,0.722,+0.099 (5/5 folds),+0.071 (5/5 folds)
